@@ -30,7 +30,7 @@ A set of Python scripts for downloading music from YouTube, fetching metadata fr
 
 - Python 3.10+
 - Packages: `yt-dlp`, `spotipy`, `mutagen`, `requests`, `python-dotenv`
-- FFmpeg (bundled in the release executable; otherwise install separately)
+- [FFmpeg](https://www.gyan.dev/ffmpeg/builds/) (bundled in the release executable; otherwise install separately)
 
 Install dependencies:
 
