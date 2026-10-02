@@ -1,0 +1,8 @@
+# Секреты
+.env
+.cache
+ffmpeg_bin
+dist
+build
+__pycache__
+main.spec
