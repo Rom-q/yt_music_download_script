@@ -24,7 +24,7 @@ A set of Python scripts for downloading music from YouTube, fetching metadata fr
 | `add_cover.py` | Standalone script to add covers to a folder of music |
 | `metadata_trigger.py` | Standalone script for metadata fetching and tagging |
 
-# DOWNLOAD [RELEASE]() .exe
+# DOWNLOAD [RELEASE](https://github.com/Rom-q/yt_music_download_script/releases/tag/1.0.1) .exe
 
 ## Requirements
 
